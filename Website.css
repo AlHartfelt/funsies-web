@@ -1,0 +1,26 @@
+body {
+    background-color:#131313;
+    margin: 0;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+h1 {
+    font-size:64px;
+    font-family:monospace;
+    background-image:image();
+}
+
+.hehe {
+    columns: 2; 
+    column-gap: 200px;
+    overflow: hidden;
+    display: inline-;
+}
